@@ -1,0 +1,1 @@
+{"words2int": {"hello": 1, "hi": 2, "good": 3, "morning": 4, "evening": 5, "afternoon": 6, "what": 7, "are": 8, "you": 9, "who": 10, "tell": 11, "me": 12, "about": 13, "yourself": 14, "help": 15, "can": 16, "do": 17, "mind": 18, "helping": 19}, "types2int": {"greetings": 0, "about": 1, "help": 2}, "int2types": {"0": "greetings", "1": "about", "2": "help"}}

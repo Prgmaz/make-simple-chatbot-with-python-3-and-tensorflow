@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "type": "greetings",
+            "questions": [
+                "Hello", 
+                "Hi", 
+                "Good Morning", 
+                "Good Evening", 
+                "Good Afternoon"
+            ],
+            "answers": [
+                "Hello", 
+                "Hi", 
+                "Good Morning to you too", 
+                "Good Evening"
+            ]
+        },
+        {
+            "type": "about",
+            "questions": [
+                "What are you?",
+                "Who are you?",
+                "Tell me about yourself"
+            ],
+            "answers": [
+                "Hello, I'm a Bot",
+                "Hello, I'm a talking bot created in python",
+                "I'm a bot, Nice to meet you"
+            ]
+        },
+        {
+            "type": "help",
+            "questions": [
+                "Help Me.",
+                "Can you help me?",
+                "Do you mind helping me?"
+            ],
+            "answers" : [
+                "Sure, How can I help you?",
+                "I'm always here to help, Just ask.",
+                "Yeah sure, Ask me."
+            ]
+        }
+    ]
+}
